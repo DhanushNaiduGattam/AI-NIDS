@@ -13,4 +13,3 @@ An AI-powered Network Intrusion Detection System that uses machine learning to d
 - pandas, NumPy
 - Streamlit
 - Matplotlib, Seaborn
-## 📂 Project Structure
