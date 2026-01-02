@@ -13,3 +13,21 @@ An AI-powered Network Intrusion Detection System that uses machine learning to d
 - pandas, NumPy
 - Streamlit
 - Matplotlib, Seaborn
+
+---
+
+## 📊 Dataset
+### Simulation Mode (Default)
+Synthetic network traffic generated using NumPy for immediate testing.
+
+### Production Mode
+Supports the **CIC-IDS2017** dataset from the Canadian Institute for Cybersecurity.
+
+---
+
+## ⚙️ Installation
+
+### Clone the Repository
+
+git clone https://github.com/DhanushNaiduGattam/AI-NIDS.git
+cd AI-NIDS
